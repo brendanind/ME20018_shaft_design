@@ -11,4 +11,4 @@ Free to use but please note:
 This is the work of Brendan Ind 2022
 
 References:
-Meriam & Kraige's Engineering Statics (% Mechanics), 1966, ISBN: 9780471787037
+Meriam & Kraige's Engineering Statics (& Mechanics), 1966, ISBN: 9780471787037
